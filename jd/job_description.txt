@@ -1,0 +1,32 @@
+Job Title: Python AI Developer
+
+Company: ABC Technologies
+
+Required Skills:
+- Python
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- Scikit-learn
+- Pandas
+- NumPy
+- Flask
+- SQL
+- Git
+- REST API
+- Problem Solving
+- Data Structures
+
+Experience:
+0–2 years
+
+Education:
+Bachelor's or Master's degree in Computer Science, Information Science, AI, Data Science, or related field.
+
+Responsibilities:
+- Develop AI and Machine Learning applications
+- Build REST APIs using Flask
+- Work with databases
+- Process and analyze data
+- Collaborate with development teams
+- Write clean and maintainable code
